@@ -1,6 +1,6 @@
 # LogHub — AI Intake Assistant
 
-**Live demo:** _link added after deploy — see [Deploy](#deploy)_
+**Live demo:** [loghub-six.vercel.app](https://loghub-six.vercel.app/)
 **Case:** CITO first-round case study — Vertical AI Hub for logistics/moving companies (LogHub)
 
 LogHub is a customer-facing **AI Intake Assistant**, powered underneath by a grounded, source-cited knowledge layer. The product a customer sees is intake — a chat that qualifies a real move and drafts a structured request. The knowledge base is what makes that intake trustworthy: every answer is grounded in specific sources and never invented.
